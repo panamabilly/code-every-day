@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: February 2, 2022 
-##### (delete me or comment me out)
+
 
 **Today's Progress**:
 
